@@ -1,0 +1,5 @@
+employee:
+  name: Rahul
+  department: Engineering
+  salary: 120000
+  permanent: true
